@@ -1,0 +1,261 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/axehandle-hound",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "axehandle-hound",
+    "name": "Axehandle Hound",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "american-folklore",
+      "lumberjack-legend",
+      "tall-tale",
+      "north-america",
+      "occupational-folklore"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "A fearsome critter from American lumberjack folklore, described as dog-shaped with a head like an axe blade and body/legs shaped like an axe handle. Known for sneaking into logging camps at night to chew and destroy wooden axe handles.",
+      "full": "The Axehandle Hound is a creature from the fearsome critter tradition of American logging camps in the 19th and early 20th centuries. Described as having a head shaped like an axe blade and a body and legs shaped like axe handles, this absurd creature was said to exclusively eat wooden axe handles. According to the tall tales, the Axehandle Hound would sneak into logging camps at night to chew and destroy the lumberjacks' tools. The creature represents classic occupational folklore, serving as a humorous explanation for missing or damaged equipment while providing entertainment and hazing greenhorns (new workers) in isolated lumber camps. Part of the broader fearsome critter tradition that includes creatures like the Hodag and Hidebehind, the Axehandle Hound exemplifies American frontier humor and tall tale culture."
+    },
+    "etymology": {
+      "origin": "Named for its distinctive appearance and diet - both resembling axe handles",
+      "meaning": "A dog-like creature made of and subsisting on axe handles",
+      "first_use": "19th century American logging camps"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Occupational folklore",
+      "variant": "Lumberjack tall tale"
+    },
+    "related_phenomena": [
+      {
+        "id": "hodag",
+        "name": "Hodag",
+        "relationship": "similar",
+        "description": "Another fearsome critter from Wisconsin lumber camps"
+      },
+      {
+        "id": "hidebehind",
+        "name": "Hidebehind",
+        "relationship": "related",
+        "description": "Fearsome critter that stalks lumberjacks"
+      },
+      {
+        "id": "jackalope",
+        "name": "Jackalope",
+        "relationship": "similar",
+        "description": "American tall tale creature from the West"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 0.5,
+        "max": 0.7,
+        "unit": "meters",
+        "confidence": "folklore"
+      },
+      "features": [
+        {
+          "feature": "Head",
+          "description": "Shaped like an axe blade",
+          "frequency": "always"
+        },
+        {
+          "feature": "Body",
+          "description": "Body and legs shaped like axe handles",
+          "frequency": "always"
+        },
+        {
+          "feature": "Legs",
+          "description": "Stubby legs resembling axe handles",
+          "frequency": "always"
+        },
+        {
+          "feature": "Overall appearance",
+          "description": "Dog-shaped creature made entirely of axe-related parts",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Canine-shaped creature with head resembling axe blade and body/legs shaped like axe handles. Entirely wooden in appearance."
+    },
+    "abilities": [
+      {
+        "ability": "Axe handle consumption",
+        "description": "Can chew and consume wooden axe handles",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Stealth",
+        "description": "Sneaks into camps undetected at night",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "neutral (destructive to tools)",
+      "habitat_preference": [
+        "logging camps",
+        "forests near lumber operations",
+        "tool storage areas"
+      ],
+      "diet": "Exclusively wooden axe handles",
+      "patterns": [
+        "Sneaks into camps at night",
+        "Chews and destroys axe handles",
+        "Avoids human contact",
+        "Seeks out wooden tools"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "North American logging regions, particularly where lumber camps were active in the 19th and early 20th centuries",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": [
+        "Great Lakes region",
+        "Pacific Northwest",
+        "Northern forests",
+        "Logging territories"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "19th century",
+        "circa": true,
+        "source": "American logging camp oral tradition"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1850s-1920s",
+          "description": "Peak of lumber camp culture and fearsome critter tradition"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American frontier folklore, specifically lumber camp occupational legends. Part of the fearsome critter tradition used to entertain workers and haze newcomers.",
+      "earliest_accounts": "Oral tradition from 19th century logging camps",
+      "folklore_connections": "Part of broader fearsome critter tradition including Hodag, Hidebehind, Wampus Cat, and others. Represents American tall tale culture."
+    },
+    "timeline": [
+      {
+        "date": "1850s-1900",
+        "event": "Peak lumber camp era",
+        "significance": "Fearsome critter tales flourish in isolated logging communities",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "Early 20th century",
+        "event": "Documentation begins",
+        "significance": "Folklorists begin recording fearsome critter tales",
+        "source": "Folklore collections"
+      },
+      {
+        "date": "Modern era",
+        "event": "Cultural preservation",
+        "significance": "Axehandle Hound preserved in cryptozoology and folklore collections",
+        "source": "Contemporary folklore studies"
+      }
+    ],
+    "modern_era": "The Axehandle Hound remains a curiosity in American folklore and cryptozoology collections, representing the humor and creativity of lumber camp culture. It serves as an example of occupational folklore and tall tale tradition."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Told to entertain workers in isolated camps",
+        "Used to haze greenhorns (new workers)",
+        "Explained missing or damaged tools",
+        "Provided comic relief in harsh conditions"
+      ],
+      "stories": [
+        "Axehandle Hound raids on camp tool sheds",
+        "Lumberjacks finding chewed axe handles",
+        "Elaborate descriptions fooling newcomers"
+      ],
+      "beliefs": "Never seriously believed; acknowledged as tall tale and humor"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods collections",
+        "American folklore anthologies",
+        "Cryptozoology reference books"
+      ],
+      "other": [
+        "American folk art",
+        "Lumberjack festival references",
+        "Cryptozoology curiosity"
+      ]
+    }
+  },
+
+  "theories": {
+    "folkloric": [
+      {
+        "name": "Tool damage explanation",
+        "description": "Tall tale to humorously explain missing or damaged axe handles",
+        "proponents": ["Lumberjacks", "Folklorists"],
+        "evidence_cited": ["Occupational folklore pattern", "Comic nature"]
+      },
+      {
+        "name": "Greenhorn hazing",
+        "description": "Used to fool and entertain new workers in camps",
+        "proponents": ["Folklore scholars"],
+        "evidence_cited": ["Fearsome critter tradition", "Initiation practices"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": ["Henry H. Tryon"],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    }
+  ]
+}
