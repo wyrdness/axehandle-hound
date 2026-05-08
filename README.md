@@ -1,264 +1,134 @@
 # Axehandle Hound
 
-> *"If your axe handle goes missing, blame the hound."*
+> The Axehandle Hound is a creature from the North American lumberjack tall-tale tradition — the 'fearsome critters' — described as a dog whose head is shaped like an axe blade and whose body resembles an axe handle, said to sneak into logging camps at night to eat wooden axe handles.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-orange)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-historical-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `axehandle-hound` |
 | **Category** | CRYPTID |
-| **Classification** | Fearsome Critter / Tall Tale |
-| **First Recorded** | 19th century |
-| **Primary Region** | North American logging camps |
-| **Status** | Folklore/Tall tale |
+| **Subcategory** | Fearsome critter / occupational tall-tale creature |
+| **First recorded** | 1910-01-01 |
+| **Primary range** | The Axehandle Hound legend is associated with the logging camps of Wisconsin and Minnesota, the heart of the Great Lakes timber industry in the late 19th and early 20th centuries |
+| **Status** | historical |
 
 ---
-
 ## Overview
 
-The Axehandle Hound is a creature from the fearsome critter tradition of American logging camps in the 19th and early 20th centuries. Described as having a head shaped like an axe blade and a body and legs shaped like axe handles, this absurd creature was said to exclusively eat wooden axe handles.
-
-According to the tall tales, the Axehandle Hound would sneak into logging camps at night to chew and destroy the lumberjacks' tools. The creature represents classic occupational folklore, serving as a humorous explanation for missing or damaged equipment while providing entertainment and hazing greenhorns (new workers) in isolated lumber camps.
-
-Part of the broader fearsome critter tradition that includes creatures like the Hodag and Hidebehind, the Axehandle Hound exemplifies American frontier humor and tall tale culture.
+The Axehandle Hound belongs to the tradition of 'fearsome critters': fictional creatures invented by North American lumberjacks during the 19th and early 20th centuries as a form of occupational humor, camp entertainment, and hazing material for new workers. The creature is described consistently: its head has the shape and profile of an axe blade, while its body — carried on short stubby legs — has the elongated cylindrical form of an axe handle. Its diet consists exclusively of wooden axe handles left unattended overnight. The legend served as a humorous explanation for damaged or missing tools in logging camps, where expensive equipment was a genuine concern. According to the tradition documented by Henry H. Tryon in 'Fearsome Critters' (1939), the tall tales were told 'with the utmost solemnity' by two narrators until newcomers were 'completely convinced of the animal's existence.' The Axehandle Hound is documented in two foundational fearsome critter texts: William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910) and Tryon's 1939 collection. The creature was later referenced by Jorge Luis Borges in his 'Book of Imaginary Beings' (1957/1967), bringing it to wider literary attention. Reports were associated primarily with the Great Lakes states of Wisconsin and Minnesota, where the logging industry was most concentrated.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Ax-Handle Hound | English / Great Lakes / Upper Midwest, USA | Alternate spelling; same creature |
 
-### Primary Name
-- **Axehandle Hound** — Named for its distinctive appearance (shaped like axe handles) and diet (eats axe handles)
+## Etymology
 
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Fearsome Critter
-├── Subtype: Occupational folklore
-└── Variant: Lumberjack tall tale
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Hodag](/hodag) | Similar | Wisconsin fearsome critter from lumber camps |
-| Hidebehind | Related | Fearsome critter that stalks lumberjacks |
-| [Jackalope](/jackalope) | Similar | American tall tale creature from the West |
+- **Origin**: The name is entirely descriptive of the creature's appearance: its head resembles an axe (blade) and its body an axe handle. The Great Lakes lumberjack tradition of fearsome critters emerged primarily from the late 19th and early 20th centuries.
+- **Meaning**: A hound (dog) shaped like an axe and its handle.
+- **First use**: First documented in William T. Cox, 'Fearsome Creatures of the Lumberwoods' (1910)
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Hodag](../hodag/) — _similar_: Another fearsome critter from Wisconsin logging tradition, significantly more elaborate and subject to a deliberate hoax
+- [Hidebehind](../hidebehind/) — _similar_: Fearsome critter that hides behind trees; companion creature in the same tall-tale tradition
+- [Splintercat](../splintercat/) — _similar_: Fearsome critter said to smash into trees at night to knock out the honey and animals inside
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 0.5 - 0.7 meters (dog-sized) | Folklore |
-| **Shape** | Dog-like creature | Folklore |
-| **Material** | Appears entirely wooden | Folklore |
+- **Coloration**: Not documented in primary sources
+- **Morphology**: A dog-shaped creature whose entire morphology is determined by the tools of the logging trade. The design is deliberately absurdist, matching the humor of the fearsome critter tradition.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Head | Shaped like an axe blade | Always |
-| Body | Shaped like axe handle | Always |
-| Legs | Stubby, axe handle-shaped legs | Always |
-| Overall form | Dog-shaped but made of axe parts | Always |
+|---|---|---|
+| Axe-blade head | The head is shaped like an axe blade — flat, wedge-shaped, with the profile of a chopping axe | always |
+| Axe-handle body | The body is elongated and cylindrical, resembling the wooden handle of an axe; carried on short, stubby legs | always |
+| Short stubby legs | Four short legs support the handle-shaped body | always |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Axe handle consumption | Can chew and eat wooden axe handles | Folklore |
-| Stealth | Sneaks into camps undetected at night | Folklore |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Consumption of wood | The Axehandle Hound subsists exclusively on wooden axe handles left unattended; it gnaws through handles overnight | always | folklore |
+| Nocturnal stealth | Sneaks into logging camps at night to find and eat unattended axe handles | always | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal
-- **Disposition**: Neutral (destructive to tools)
-- **Habitat**: Logging camps, tool storage areas
-- **Diet**: Exclusively wooden axe handles
-
-**Key Behaviors**:
-- Sneaks into camps at night
-- Chews and destroys axe handles
-- Avoids human contact
-- Seeks out wooden tools
+- **Activity**: nocturnal
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: logging camps, North American temperate forests, Great Lakes region
+- **Diet**: Wooden axe handles exclusively
 
 ---
+## Distribution
 
-## Geographic Distribution
+The Axehandle Hound legend is associated with the logging camps of Wisconsin and Minnesota, the heart of the Great Lakes timber industry in the late 19th and early 20th centuries. Fearsome critter tales spread across North America's logging territories as workers traveled between camps.
 
-### Primary Range
-
-North American logging regions, particularly active lumber camp areas in the 19th and early 20th centuries including the Great Lakes region and Pacific Northwest.
-
-### Cultural Distribution
-
-| Region | Significance |
-|--------|--------------|
-| Great Lakes region | Lumber camp folklore center |
-| Pacific Northwest | Logging territory |
-| Northern forests | Active lumber operations |
-| Canada | Logging camp traditions |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-The Axehandle Hound emerged from American frontier folklore, specifically the lumber camp occupational legends of the 19th century. Part of the fearsome critter tradition used to entertain workers and haze newcomers in isolated logging communities.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| 1850s-1900 | Peak lumber camp era | Fearsome critter tales flourish in isolated communities |
-| Early 1900s | Documentation begins | Folklorists record fearsome critter tales |
-| 1910 | Cox's publication | "Fearsome Creatures of the Lumberwoods" published |
-| Modern era | Cultural preservation | Preserved in folklore and cryptozoology collections |
-
-### Modern Era
-
-The Axehandle Hound remains a curiosity in American folklore and cryptozoology collections, representing the humor and creativity of lumber camp culture. It serves as an example of occupational folklore and tall tale tradition.
+|---|---|---|
+| 1910-01-01 | William T. Cox publishes 'Fearsome Creatures of the Lumberwoods' (Washington D.C.: Judd & Detweiler), the first comprehensive collection of fearsome critters, including the Axehandle Hound | First written documentation of the Axehandle Hound; establishes it in the recorded fearsome critter canon |
+| 1939-01-01 | Henry H. Tryon publishes 'Fearsome Critters' (Cornwall, NY: Idlewild Press), expanding documentation of the tradition including the Axehandle Hound | Second foundational text; documents the oral performance tradition around fearsome critters |
+| 1957-01-01 | Jorge Luis Borges includes the Axehandle Hound in his 'Manual de Zoología Fantástica' (later expanded as 'El libro de los seres imaginarios'), bringing it to international literary attention | Elevates the creature from occupational folklore to literary canon |
 
 ---
-
-## Cultural Significance
-
-### Lumber Camp Tradition
-
-The Axehandle Hound served multiple purposes in lumber camp culture:
-
-1. **Entertainment**: Provided comic relief in harsh, isolated conditions
-2. **Hazing**: Used to fool greenhorns (new workers)
-3. **Explanation**: Humorous excuse for missing or damaged tools
-4. **Bonding**: Shared jokes created camp camaraderie
-
-### Fearsome Critters
-
-The Axehandle Hound is part of the fearsome critter tradition, which includes:
-- **Hodag**: Horned, spiked Wisconsin creature
-- **Hidebehind**: Stalking forest creature
-- **Wampus Cat**: Six-legged feline
-- **Sidehill Gouger**: Hill-dwelling creature with uneven legs
-- **Splintercat**: Explosive tree-destroying creature
-
-These creatures represent American frontier humor and the tall tale tradition.
-
-### Popular Culture
-
-**Literature**:
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*
-- Tryon, H.H. (1939). *Fearsome Critters*
-- American folklore anthologies
-
-**Other**:
-- American folk art
-- Lumberjack festival references
-- Cryptozoology curiosity collections
-
----
-
-## Purpose & Function
-
-### Occupational Folklore
-
-The Axehandle Hound exemplifies occupational folklore:
-
-- **Tool damage explanation**: Missing or damaged axe handles blamed on the hound
-- **Camp entertainment**: Elaborate tales told around campfires
-- **Greenhorn initiation**: New workers fooled by absurd descriptions
-- **Shared culture**: Created bonds among isolated workers
-
-### Tall Tale Tradition
-
-Obvious satirical elements:
-- Absurd appearance (made of axe handles)
-- Ridiculous diet (eats only axe handles)
-- Humorous explanations for mundane problems
-- Intentionally implausible creature
-
----
-
 ## Theories & Explanations
 
-### Folkloric Purpose
+### Skeptical
 
-1. **Tool Damage Explanation**
-   Humorous way to explain missing or damaged equipment in camps where tools were essential and expensive.
+**Deliberate tall tale (occupational humor)** _(Folklorists documenting the fearsome critter tradition, Henry H. Tryon (1939))_
 
-2. **Greenhorn Hazing**
-   Used to fool and entertain new workers, testing their credulity and providing camp amusement.
+The Axehandle Hound was never intended to be believed as a real creature; it was part of a deliberately absurdist oral tradition designed to entertain, haze newcomers, and provide humorous explanations for mundane problems (missing axe handles). The fearsome critters tradition was self-consciously fictional, with the humor deriving partly from the absurdity of the creatures' designs.
 
-3. **Occupational Identity**
-   Created shared culture and inside jokes among lumberjacks in isolated conditions.
 
----
+## Popular Culture
 
-## API Reference
+**Literature**: William T. Cox, 'Fearsome Creatures of the Lumberwoods' (1910) — first written documentation; Henry H. Tryon, 'Fearsome Critters' (1939) — second foundational text; Jorge Luis Borges, 'Book of Imaginary Beings' (1957/1967) — literary canonization
 
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const creature = await wyrd.getPhenomenon('axehandle-hound');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/axehandle-hound/main/api.json
-```
+**Other**: Featured in online folklore databases and cryptozoology wikis; Sometimes included in lists of American regional monsters and cryptids
 
 ---
+## Research
 
-## Sources & References
+### Researchers
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| William T. Cox | U.S. Forest Service | Compiled the first systematic written collection of fearsome critters in 'Fearsome Creatures of the Lumberwoods' (1910), including the Axehandle Hound | 1910 |
+| Henry H. Tryon | Independent | Expanded fearsome critter documentation in 'Fearsome Critters' (1939); described the oral performance tradition | 1939 |
 
-### Primary Sources
-
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+The Axehandle Hound is studied as part of American folklore scholarship, particularly in examinations of occupational folklore and the tall tale tradition. No active field investigation exists.
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
